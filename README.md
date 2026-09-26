@@ -10,3 +10,5 @@ Tools: Python, C, JavaScript, React, Node.js, Firebase, Vite, CSS, Git
 [Mitti & Bean](https://github.com/wlfparth27/mitti-and-bean) — a web project I built for Mitti & Bean.
 
 Currently studying CSF and planning a zero-knowledge, client-side encrypted storage project.
+
+[Now](now.md) · [Projects](projects.md) · [Lab](lab/) · [Docs](docs/)
