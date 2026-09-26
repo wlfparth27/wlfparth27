@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile.gif" alt="Animated profile header" width="100%">
+</p>
+
 I'm Parth, a CSF student building web products, small systems, and cybersecurity projects.
 Most of my work sits between frontend, backend, and security-focused problem-solving.
 I use code for things I actually want to test, ship, or break.
