@@ -7,6 +7,6 @@ Tools: Python, C, JavaScript, React, Node.js, Firebase, Vite, CSS, Git
 
 [Vacio.](https://github.com/wlfparth27/vacio) — the site for our independent digital studio, built with React and Vite.
 [Form Force](https://github.com/wlfparth27/form-force) — an experimental interactive site exploring motion, form, and structure.
-[Relay](https://github.com/wlfparth27/relay-saas) — a project-management SaaS concept for teams handling clients, files, approvals, and deadlines.
+[Mitti & Bean](https://github.com/wlfparth27/mitti-and-bean) — a web project I built for Mitti & Bean.
 
 Currently studying CSF and planning a zero-knowledge, client-side encrypted storage project.
